@@ -1,5 +1,5 @@
 
-#include "functions.h"
+#include "functions.h" //header file for function declarations
 
 const int arr_size = 150;
 int myarr[arr_size] = {0};
